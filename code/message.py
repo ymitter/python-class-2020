@@ -2,5 +2,5 @@
 
 message = "hello, students!"
 
-for g in range(50):
+for i in range(50):
     print(message)
