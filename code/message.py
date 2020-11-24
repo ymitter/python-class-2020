@@ -1,6 +1,6 @@
 # some stuff
 
-text = "hello, students!"
+message = "hello, students!"
 
 for i in range(50):
-    print(text)
+    print(message)
